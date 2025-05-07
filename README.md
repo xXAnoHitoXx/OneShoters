@@ -61,9 +61,9 @@ Whenever you reach a level in this class that grants the Ability Score Improveme
 ##### Normal Use
 - bonus action, 60ft, 1 creature
 - that creature can choose to roll the bardic dice and add to attack roll, saving throw, ability check after seeing the result of their roll but before the DM says it succeed or failed.
-##### [Psychic Blade](https://dnd5e.wikidot.com/bard:whispers)
+##### Psychic Blade ([source](https://dnd5e.wikidot.com/bard:whispers))
 - when hitting with a weapon attack, spend 1 bardic inspiration to add *3d6* psychic damage
-### [Words of Terror](https://dnd5e.wikidot.com/bard:whispers)
+### Words of Terror ([source](https://dnd5e.wikidot.com/bard:whispers))
 - 1 per long rest
 - If you speak to a humanoid alone for at least 1 minute, you can attempt to seed paranoia and fear into its mind.
 ##### Wisdom save vs Spell Save DC *(14)*
