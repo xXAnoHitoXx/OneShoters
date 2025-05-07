@@ -47,6 +47,10 @@ You have advantage on saving throws against being charmed, and magic can't put y
 ### Jack of all trades
 Starting at 2nd level, you can add half your proficiency bonus, rounded down, to any ability check you make that doesn't already include your proficiency bonus.
 
+### Bardic Versatility
+Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can do one of the following, representing a change in focus as you use your skills and magic:
+- Replace one of the skills you chose for the Expertise feature with one of your other skill proficiencies that isn't benefiting from Expertise.
+
 ## Features
 - trance
 - darkvision
@@ -67,7 +71,8 @@ Starting at 2nd level, you can add half your proficiency bonus, rounded down, to
 - success: the target has no hint that you tried to frighten it.
 
 ## Spells
-- Attack Mod: +6, Spell Save: 14, Char
+- Cha: Attack Mod: +6, Spell Save: 14
+- Int: Attack Mod: +5, Spell Save: 13
 ### Cantrips
 - [Gust](https://dnd5e.wikidot.com/spell:gust) - High Elf wizzard cantrip 
 - [Mage Hand](https://dnd5e.wikidot.com/spell:mage-hand)
