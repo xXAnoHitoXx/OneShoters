@@ -2,7 +2,7 @@
 - height: 6ft, weight: a duck, age: 120,
 - background: [Researcher](https://www.dandwiki.com/wiki/Researcher_(5e_Background))
 - size: M, speed 30ft
-- languages: Common, Elven, Common Sign Language
+- languages: Common, Elven, Common Sign Language, Sylvan
 
 ## Witch lv5 (Bard reskin)
 - subclass: [Colledge of Whispers](https://dnd5e.wikidot.com/bard:whispers)
@@ -34,15 +34,15 @@ You have advantage on saving throws against being charmed, and magic can't put y
 
 |Skill                  |Prof   |Mod |Skill                   |Prof   |Mod |
 |-----------------------|-------|----|------------------------|-------|----|
-|Acrobatic (*Dex*)      |Prof   |+7  |Medicine (*Wis*)        |       |+0  |
-|Animal Handling (*Wis*)|       |+0  |Nature (*Int*)          |       |+3  |
-|Arcana (*Int*)         |Expert |+8  |Perception (*Wis*)      |Prof   |+3  |
-|Athletic (*Str*)       |       |+0  |Performance (*Cha*)     |       |+4  |
-|Deception (*Cha*)      |       |+4  |Persuasion (*Cha*)      |Expert |+9  |
-|History (*Int*)        |       |+3  |Religion (*Int*)        |       |+3  |
-|Insight (*Wis*)        |~Prof~ |+0  |Sleight of Hand (*Dex*) |       |+5  |
-|Intimidation (*Cha*)   |Expert |+9  |Stealth (*Dex*)         |       |+5  |
-|Investigation (*Int*)  |       |+3  |Survival (*Wis*)        |       |+0  |
+|Acrobatic *(Dex)*      |Prof   |+7  |Medicine *(Wis)*        |       |+0  |
+|Animal Handling *(Wis)*|       |+0  |Nature *(Int)*          |       |+3  |
+|Arcana *(Int)*         |Expert |+8  |Perception *(Wis)*      |Prof   |+3  |
+|Athletic *(Str)*       |       |+0  |Performance *(Cha)*     |       |+4  |
+|Deception *(Cha)*      |       |+4  |Persuasion *(Cha)*      |Expert |+9  |
+|History *(Int)*        |       |+3  |Religion *(Int)*        |       |+3  |
+|Insight *(Wis)*        |~Prof~ |+0  |Sleight of Hand *(Dex)* |       |+5  |
+|Intimidation *(Cha)*   |Expert |+9  |Stealth *(Dex)*         |       |+5  |
+|Investigation *(Int)*  |       |+3  |Survival *(Wis)*        |       |+0  |
 
 ### Jack of all trades
 Starting at 2nd level, you can add half your proficiency bonus, rounded down, to any ability check you make that doesn't already include your proficiency bonus.
@@ -53,7 +53,7 @@ Starting at 2nd level, you can add half your proficiency bonus, rounded down, to
 - proficiency with the longsword, shortsword, shortbow, and longbow.
 
 ## Resources
-### Bardic Inspiration (*3d8*)
+### Bardic Inspiration *(3d8)*
 #### Normal Use
 - bonus action, 60ft, 1 creature
 - that creature can choose to roll the bardic dice and add to attack roll, saving throw, ability check after seeing the result of their roll but before the DM says it succeed or failed.
@@ -62,7 +62,7 @@ Starting at 2nd level, you can add half your proficiency bonus, rounded down, to
 ### Words of Terror
 - 1 per long rest
 - If you speak to a humanoid alone for at least 1 minute, you can attempt to seed paranoia and fear into its mind.
-#### Wisdom save vs Spell Save DC (*14*)
+#### Wisdom save vs Spell Save DC *(14)*
 - failure: the creature is frightened of you or a creature of your choice for 1 hour, until it is attacked or damaged, or until it witnesses its allies being attacked or damaged.
 - success: the target has no hint that you tried to frighten it.
 
