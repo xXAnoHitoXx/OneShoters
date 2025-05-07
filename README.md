@@ -58,15 +58,15 @@ Whenever you reach a level in this class that grants the Ability Score Improveme
 
 ## Resources
 ### Bardic Inspiration *(3d8)*
-#### Normal Use
+##### Normal Use
 - bonus action, 60ft, 1 creature
 - that creature can choose to roll the bardic dice and add to attack roll, saving throw, ability check after seeing the result of their roll but before the DM says it succeed or failed.
-#### Psychic Blade
+##### Psychic Blade
 - when hitting with a weapon attack, spend 1 bardic inspiration to add *3d6* psychic damage
 ### Words of Terror
 - 1 per long rest
 - If you speak to a humanoid alone for at least 1 minute, you can attempt to seed paranoia and fear into its mind.
-#### Wisdom save vs Spell Save DC *(14)*
+##### Wisdom save vs Spell Save DC *(14)*
 - failure: the creature is frightened of you or a creature of your choice for 1 hour, until it is attacked or damaged, or until it witnesses its allies being attacked or damaged.
 - success: the target has no hint that you tried to frighten it.
 
