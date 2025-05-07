@@ -70,6 +70,10 @@ Whenever you reach a level in this class that grants the Ability Score Improveme
 - failure: the creature is frightened of you or a creature of your choice for 1 hour, until it is attacked or damaged, or until it witnesses its allies being attacked or damaged.
 - success: the target has no hint that you tried to frighten it.
 
+## Actions
+### Short Sword
+- Hit: +7, Damage: 1d6 piercing, Finess, Light
+
 ## Spells
 - Cha: Attack Mod: +6, Spell Save: 14
 - Int: Attack Mod: +5, Spell Save: 13
